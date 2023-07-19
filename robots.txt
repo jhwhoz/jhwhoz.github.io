@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://recordpicture.imjihun.com/sitemap.xml
+Sitemap: https://whoz.imjihun.com/sitemap.xml
