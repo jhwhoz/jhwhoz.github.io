@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://recordpicture.imjihun.com/sitemap.xml
