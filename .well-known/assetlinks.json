@@ -1,1 +1,15 @@
-[{"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"com.jh.whoz","sha256_cert_fingerprints":["55:7A:1C:03:98:44:73:15:56:49:5A:48:69:5E:6A:C7:FB:0C:44:14:E1:41:4B:71:3D:8C:23:32:28:AF:C4:56"]}}]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.jh.whoz",
+      "sha256_cert_fingerprints": [
+        "55:7A:1C:03:98:44:73:15:56:49:5A:48:69:5E:6A:C7:FB:0C:44:14:E1:41:4B:71:3D:8C:23:32:28:AF:C4:56",
+        "D9:CB:FF:3A:51:27:BC:4F:2F:37:A9:88:11:48:B3:6D:76:0C:6D:C9:4B:DD:3C:B5:AC:72:E2:47:9D:DA:10:9D"
+      ]
+    }
+  }
+]
